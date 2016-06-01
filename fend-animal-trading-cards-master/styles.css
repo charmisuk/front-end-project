@@ -1,0 +1,37 @@
+@charset "UTF-8";
+/* add your CSS here */
+body {
+
+}
+
+p.italic {
+	font-style : italic;
+}
+ul.italic {
+	font-style : italic;
+	list-style-type: none;
+	padding-left:0;
+}
+span.bold {
+	font-style : normal;
+	font-weight : bold;
+}
+.border1 {
+	width: 350px; 
+	border: 1px solid grey;
+	padding : 0em 1em; */
+}
+.border2 {
+	border: 1px solid grey;
+	padding : 1em;
+	width: 383px;
+}
+img {
+	width: 100%;
+	padding : 0px 0px 8px 0px;
+}
+h3 {
+	font-size : 40px;
+	margin-top: 0em;
+	margin-bottom: 0em;
+}
