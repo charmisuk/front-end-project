@@ -16,12 +16,12 @@ span.bold {
 	font-style : normal;
 	font-weight : bold;
 }
-.Outer_border {
+.Inner_border {
 	width : 350px; 
 	border : 1px solid grey;
 	padding : 0em 1em; */
 }
-.Inner_border {
+.Outer_border {
 	border : 1px solid grey;
 	padding : 1em;
 	width : 383px;
